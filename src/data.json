@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "_id": "air1",
+            "title": "Nike Air Force 1 '07 LV8",
+            "image": "/images/air1.jpg",
+            "description": "From sanded leather that's smoother than backboard glass to bold, NBA-inspired detailing, the Nike Air Force 1 '07 LV8 is everything you know best: crisp overlays, bold accents and the perfect amount of flash to make you shine. Its padded, low-cut collar adds heritage comfort while metal accents deliver an exclamation.",
+            "availableSizes": ["10", "11", "12", "13", "14"],
+            "price": 110
+        },
+        {
+            "_id": "air2",
+            "title": "Jordan ADG 2",
+            "image": "/images/air2.jpg",
+            "description": "Make a statement in the Jordan ADG 2. Premium materials and signature Jordan details create a look that transcends the course. Plush cushioning and a grippy outsole deliver golf-specific performance you can count on.",
+            "availableSizes": ["8", "10", "11", "12", "13", "14"],
+            "price": 97.97
+        },
+        {
+            "_id": "air3",
+            "title": "Jordan One Take II",
+            "image": "/images/air3.jpg",
+            "description": "Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league's best. His all-new Jordan One Take II embodies his edginess and speed. Colors, textures and design lines speak to Russ' persona both on and off the court.",
+            "availableSizes": ["8", "10", "11", "12", "13", "14"],
+            "price": 100
+        },
+        {
+            "_id": "air4",
+            "title": "Jordan Maxin 200",
+            "image": "/images/air4.jpg",
+            "description": "With a premium upper inspired by the classics and big Air cushioning, the Jordan Maxin 200 shows off your Jordan pride and keeps every step comfortable.",
+            "availableSizes": ["8", "8.5", "10", "11", "12", "13", "14"],
+            "price": 107
+        },
+        {
+            "_id": "air5",
+            "title": "Jordan Max 200",
+            "image": "/images/air5.jpg",
+            "description": "With design elements inspired by the Air Jordan 4, the Jordan Max 200 brings a new level of Air to Jordan for details anchored in legacy and comfort made for the future.",
+            "availableSizes": ["8", "8.5", "10", "11", "12", "13", "14", "15"],
+            "price": 92
+        }
+
+
+    ]
+}
